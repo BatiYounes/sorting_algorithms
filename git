@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "doing the tasks of sorting algorithm"
+
+git push origin 
